@@ -4,7 +4,7 @@
     },
     "routes": [
         {
-            "route": "/Secret",
+            "route": "/Secret*",
             "allowedRoles": [
                 "authenticated"
             ]

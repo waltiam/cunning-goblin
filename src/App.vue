@@ -7,7 +7,7 @@
     documentation
   </p>
   <nav>
-    <RouterLink to="/">Home</RouterLink>
+    <RouterLink to="/">Home </RouterLink>
     <RouterLink to="/Secret">Secret Place</RouterLink>
   </nav>
   <main><RouterView /></main>
